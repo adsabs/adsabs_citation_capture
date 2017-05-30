@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Alembic migration and maintenance scripting management file
+"""
 from flask_script import Manager
 from flask_script import Command
 import logging.config
